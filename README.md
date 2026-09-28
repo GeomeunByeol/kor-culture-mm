@@ -1,12 +1,23 @@
 # 한국문화 멀티모달 질의응답에서 지식 활용과 답변 최적화의 효과 분석
 
-국립국어원 인공지능(AI)말평 [한국문화 멀티모달 질의응답 과제](https://kli.korean.go.kr/m/taskOrdtm/taskList.do?taskOrdtmId=211)
+<div align="center">
 
-2026년도 한글 및 한국어 정보처리 학술대회(HCLT 2026): 
-한국문화 멀티모달 질의응답에서 지식 활용과 답변 최적화의 효과 분석
+**Analyzing Knowledge Utilization and Answer Optimization<br>in Korean Cultural Multimodal Question Answering**
+
+배준영<sup>\*</sup> · 강어진<sup>\*</sup> · 조수민 · 김주애<sup>†</sup>
 
 한국외국어대학교 HCNLP 연구실
-배준영, 강어진, 조수민, 김주애
+
+<sup>\*</sup> 공동 1저자 &nbsp;&nbsp; <sup>†</sup> 교신저자
+
+[![HCLT 2026](https://img.shields.io/badge/HCLT-2026-1f6feb)](https://sites.google.com/view/hclt2026)
+[![과제](https://img.shields.io/badge/국립국어원_AI말평-한국문화_멀티모달_질의응답-2ea44f)](https://kli.korean.go.kr/m/taskOrdtm/taskList.do?taskOrdtmId=211)
+[![서술형](https://img.shields.io/badge/최우수논문상-f59e0b)](#결과)
+
+</div>
+
+2026년도 한글 및 한국어 정보처리 학술대회(HCLT 2026) 발표 논문의 코드입니다.<br>
+국립국어원 인공지능(AI)말평 [한국문화 멀티모달 질의응답 과제](https://kli.korean.go.kr/m/taskOrdtm/taskList.do?taskOrdtmId=211)를 대상으로 합니다.
 
 시각 언어 모델(VLM)이 사진을 관찰문으로 옮기고 한국어 언어 모델(LLM)이 답하는 릴레이 구조 위에, 문항 형식별 LoRA 어댑터.
 
