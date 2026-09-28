@@ -1,0 +1,12 @@
+data/
+ext/
+work/
+adapters/
+*.zip
+*.faiss
+*.npz
+submission*.json
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

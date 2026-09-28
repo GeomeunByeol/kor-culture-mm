@@ -1,0 +1,25 @@
+# 추론
+vllm>=0.27.1
+requests
+pillow
+
+# 학습
+torch
+transformers>=4.57
+peft
+trl>=1.0
+datasets
+accelerate
+bitsandbytes
+
+# 검색
+faiss-cpu
+FlagEmbedding
+scipy
+numpy
+
+# 공식 평가 코드
+scikit-learn
+nltk
+python-mecab-ko
+setuptools
